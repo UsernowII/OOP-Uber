@@ -1,0 +1,3 @@
+class Efectivo extends Payment{
+    
+}

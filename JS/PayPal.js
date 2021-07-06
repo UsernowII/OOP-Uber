@@ -1,0 +1,3 @@
+class Paypal extends Payment{
+    
+}
